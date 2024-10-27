@@ -15,6 +15,11 @@ O projeto se consiste, basicamente, em uma tela de login, como diz o nome do pro
 
 ### Resultado da Caixa de Login- Completo
 
+![Resultado do Projeto-Início](img/tela-inicial.PNG)
+
+![Resultado do Projeto-Cadastro](img/tela-cadastro.PNG)
+
+![Resultao do Projeto-Concluído](img/tela-final.PNG)
 
 ### Estilização
 
