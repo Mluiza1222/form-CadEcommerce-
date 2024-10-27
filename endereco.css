@@ -14,13 +14,6 @@ form{
     height: 100%
 }
  
-button{
-    background-color: rgb(145, 196, 196);
-    color: white;
-    width: 80px;
-    height: 30px;
-    font-weight: bolder;
-}
 
 .button {
     background-color: rgb(145, 196, 196);

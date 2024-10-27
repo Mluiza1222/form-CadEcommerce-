@@ -1,6 +1,5 @@
 body{
     background-color:  rgb(168, 228, 228);
-    font-size: large;
 }
  
 form{
@@ -13,14 +12,6 @@ form{
     align-items: center;
     width: 100%;
     height: 100%
-}
- 
-button{
-    background-color: rgb(145, 196, 196);
-    color: white;
-    width: 80px;
-    height: 30px;
-    font-weight: bolder;
 }
 
 .button {
