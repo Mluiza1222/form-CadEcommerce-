@@ -1,4 +1,4 @@
-# Projeto- FORM-CADECOMMERCE
+# Projeto- Form-CadEcommerce
 
 O projeto foi criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento Web, ministrada pelo professor Leonardo Rocha.
 
