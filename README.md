@@ -29,7 +29,7 @@ O projeto foi baseado em três outros sites e-commerce: Shoppe, Amazon e Shein.
 
 ### Estilização
 
-O projeto foi estilizado usando o CSS3. Nos arquivos CSS referidos a cada página do projeto constam conconfigurações de estilo apresentadas a seguir:
+O projeto foi estilizado usando o CSS3. Nos arquivos CSS referidos a cada página do projeto constam configurações de estilo apresentadas a seguir:
 
 _Body_ - 
   * Background-color - O background-color é responsável por definir a cor de fundo.
