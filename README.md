@@ -29,7 +29,7 @@ O projeto foi baseado em três outros sites e-commerce: Shoppe, Amazon e Shein.
 
 ### Estilização
 
-O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css. Nesse arquivo, constam conconfigurações de estilo apresentadas a seguir:
+O projeto foi estilizado usando o CSS3. Nos arquivos CSS referidos a cada página do projeto constam conconfigurações de estilo apresentadas a seguir:
 
 _Body_ - 
   * Background-color - O background-color é responsável por definir a cor de fundo.
@@ -98,4 +98,4 @@ _.Button > a_ -
 
 ## Autor(a)
 
-O projeto foi desenvolvido pela estudante Maria Luíza Farias da Silva.
+O projeto foi desenvolvido pela estudante Maria Luíza Farias da Silva, aluna do primeiro ano do Ensino Médio do Marista Social Irmão Acácio.
