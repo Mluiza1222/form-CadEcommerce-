@@ -21,3 +21,19 @@ button{
     height: 30px;
     font-weight: bolder;
 }
+
+.button {
+    background-color: rgb(145, 196, 196);
+    width: 76px;
+    height: 27px;
+    font-size: medium;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.button > a {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 5px;
+}
